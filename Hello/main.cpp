@@ -1,7 +1,7 @@
 #include <iostream>
 #include <thread>
 
-#include "basics.h"
+#include "basics.hpp"
 
 void hello(){
     std::cout << "Hello most basic thread" << std::endl;
