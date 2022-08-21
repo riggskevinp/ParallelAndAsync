@@ -11,3 +11,4 @@ endif()
 
 add_subdirectory(Hello)
 add_subdirectory(DataSharing)
+add_subdirectory(Synchronization)

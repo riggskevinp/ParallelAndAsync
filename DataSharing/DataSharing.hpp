@@ -6,7 +6,6 @@
 #include <algorithm>
 #include <deque>
 
-#include <memory>
 #include <exception>
 #include <stack>
 #include <map>
